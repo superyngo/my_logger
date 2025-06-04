@@ -7,7 +7,7 @@ custom formatting, and log cleanup capabilities.
 
 from .logger_module import clean_logs, init_logger
 
-__version__ = "0.0.1"
+__version__ = "0.0.2"
 __author__ = "Wenyang"
 __email__ = "superyngo@gmail.com"
 

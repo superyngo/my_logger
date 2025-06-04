@@ -7,6 +7,18 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.0.2] - 2025-06-04
+
+### Fixed
+
+- Fixed type handling for log_dir parameter in init_logger function
+- Improved string to Path conversion for better compatibility
+
+### Changed
+
+- Updated GitHub Actions workflow to use uv instead of pip
+- Enhanced CI/CD pipeline for automated testing and publishing
+
 ## [0.0.1] - 2025-06-04
 
 ### Added

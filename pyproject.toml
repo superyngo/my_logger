@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "superyngo-logger"
-version = "0.0.1"
+version = "0.0.2"
 description = "A simple and efficient logging utility for Python applications"
 readme = "README.md"
 authors = [
